@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "142912054370",
+    "project_id": "tickit-2bb0e",
+    "storage_bucket": "tickit-2bb0e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142912054370:android:c97a29a6a75239f9d75d3b",
+        "android_client_info": {
+          "package_name": "com.example.flutter_main"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiQ3Ancv-gamTsyU1dyPdvPSSEUiZE-UI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
